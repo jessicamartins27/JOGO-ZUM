@@ -1,0 +1,1 @@
+Descompacte o arquivo *.zip para acesso ao instalador do Windows
